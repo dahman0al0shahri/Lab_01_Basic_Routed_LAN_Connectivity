@@ -2,6 +2,12 @@
 
 A Cisco Packet Tracer lab that demonstrates basic routed LAN connectivity between two separate networks using a Cisco 2911 router.
 
+## Lab Series Navigation
+
+| Previous Lab | Current Lab | Next Lab |
+|---|---|---|
+| — | **Lab 01 - Basic Routed LAN Connectivity** | [Lab 02 - Secure Dual-Stack VLAN Network](https://github.com/dahman0al0shahri/Lab_02_Secure_Dual_Stack_VLAN_Network) |
+
 ## Lab Overview
 
 This lab focuses on the foundation of routing between two LANs. It verifies that hosts in different IP networks can communicate through a router when interfaces, IP addressing, default gateways, and end-to-end connectivity are configured correctly.
@@ -34,6 +40,14 @@ This lab focuses on the foundation of routing between two LANs. It verifies that
 - LAN-to-LAN connectivity testing
 - Packet Tracer documentation
 - Network troubleshooting fundamentals
+
+## Progression to Lab 02
+
+Lab 01 establishes the basic routing foundation. Lab 02 expands this foundation into a more advanced design by adding VLAN segmentation, Router-on-a-Stick, IPv4 VLSM, IPv6 dual-stack routing, DHCPv4, DNS/HTTP services, SSH management, Port Security, and unused port protection.
+
+Continue to the next lab:
+
+[Lab 02 - Secure Dual-Stack VLAN Network](https://github.com/dahman0al0shahri/Lab_02_Secure_Dual_Stack_VLAN_Network)
 
 ## Verification Summary
 
